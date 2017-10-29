@@ -1,0 +1,13 @@
+{
+  "id": "eikonmessenger",
+  "name": "EikonMessenger",
+  "version": "1.0.0",
+  "description": "Eikon Messenger",
+  "main": "index.js",
+  "author": "Charlie Monzillo <cmonzillo91@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://collab.thomsonreuters.com/em-beta",
+    "hasNotificationSound": true
+  }
+}
