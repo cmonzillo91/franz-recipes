@@ -1,0 +1,13 @@
+{
+  "id": "compasstimereporting",
+  "name": "CompassTimeReporting",
+  "version": "1.0.0",
+  "description": "Compass Time Reporting",
+  "main": "index.js",
+  "author": "Charlie Monzillo <cmonzillo91@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://compass.thomsonreuters.com/timereporting",
+    "hasNotificationSound": false
+  }
+}
