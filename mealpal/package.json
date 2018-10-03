@@ -1,0 +1,13 @@
+{
+  "id": "mealpal",
+  "name": "MealPal",
+  "version": "1.0.0",
+  "description": "Meal Pal",
+  "main": "index.js",
+  "author": "Charlie Monzillo <cmonzillo91@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://secure.mealpal.com/lunch",
+    "hasNotificationSound": true
+  }
+}
